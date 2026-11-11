@@ -1,0 +1,3 @@
+area	Hill	Tutoring	10	2
+area	Lake	Tutoring	2	10
+link	Hill	Lake	Tutoring	6
